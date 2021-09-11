@@ -2,7 +2,10 @@
 /public/hot
 /public/storage
 /storage/*.key
+<<<<<<< HEAD
 
+=======
+>>>>>>> parent of f9e349a (Revert "masukin vendor")
 .env
 .env.backup
 .phpunit.result.cache
